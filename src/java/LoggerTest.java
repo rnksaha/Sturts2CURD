@@ -9,7 +9,7 @@ import org.apache.log4j.Logger;
 
 /**
  *
- * @author rouna
+ * @author rounak
  */
 public class LoggerTest {
     public static void main(String[] args) {

@@ -12,7 +12,7 @@ import org.apache.log4j.RollingFileAppender;
 
 /**
  *
- * @author rouna
+ * @author rounak
  */
 public class LoggerUtil {
     public static void initLogger() {
